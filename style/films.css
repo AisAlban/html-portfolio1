@@ -1,0 +1,37 @@
+body{
+    background-image: url("img/Best-Thriller-Movies-of-All-Time-Ranked-for-Filmmakers-Featured.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.main_part{
+    background-color: rgba(128, 128, 128, 0.693);
+    width: auto;
+}
+    
+.main_part h1{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    color: black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+    
+.main_part h2{
+    padding-left: 20px;
+}
+    
+.main_part img{
+    width: 250px;
+    height: 250px;
+    margin-left: 20px;
+}
+    
+.main_part p{
+    margin-left: 20px;
+}
+    
+.main_part p:last-child{
+    padding-bottom: 20px;
+}
+    

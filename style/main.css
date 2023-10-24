@@ -1,0 +1,39 @@
+body{
+    background-image: url(../img/f5815a83301421.5d382fb27c517.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment:fixed;
+}
+
+.films img{
+    width: 350px;
+    height: 250px;
+    border-radius: 25px;
+    opacity: .8;
+}
+
+.invitation img{
+    width: 350px;
+    height: 250px;
+    border-radius: 25px;
+    margin-bottom: 30px;
+    opacity: .8;
+}
+
+h1, h2, h3, p{
+    color: rgba(9, 4, 41, 0.881);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+
+a{
+    margin-left: 20px;
+    padding-bottom: 50px;
+    font-size: 20px;
+    font-weight: 500;
+    color:  rgba(9, 4, 41, 0.881);
+}
+
+
+     
